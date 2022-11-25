@@ -1,0 +1,11 @@
+{
+  "name": "figma-sql",
+  "id": "1177839954351303795",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": [
+    "figma",
+    "figjam"
+  ],
+  "ui": "ui.html"
+}
